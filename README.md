@@ -8,12 +8,16 @@
   <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a>
-  
 </div>
 
 
+[![GitHub followers](https://img.shields.io/github/followers/Guscraftin?logo=GitHub&style=for-the-badge)](https://github.com/Guscraftin)
+[![GitHub Stars](https://img.shields.io/github/stars/Guscraftin?logo=github&style=for-the-badge)](https://github.com/Guscraftin)
+<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/Guscraftin?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Guscraftin) -->
 
-## 👤 About me
+
+
+## 👨🏻‍💻 About me
 
 <a href="https://app.daily.dev/Guscraftin"><img src="https://github.com/Guscraftin/Guscraftin/blob/main/devcard.svg" width="250" alt="Guscraftin's Dev Card" align="right"/></a>
 
