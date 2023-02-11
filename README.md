@@ -2,6 +2,9 @@
 
 <a href="https://app.daily.dev/Guscraftin"><img src="https://github.com/Guscraftin/Guscraftin/blob/main/devcard.svg" width="400" alt="Guscraftin's Dev Card"/></a>
 
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&theme=tokyonight&layout=compact" />
+
 <!--
 **Guscraftin/Guscraftin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
