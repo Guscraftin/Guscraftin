@@ -67,6 +67,9 @@
 ## Connect with me  
 
 <div align="center">
+  <a href="https://discord.com/users/265785336175656970" target="_blank">
+    <img src=https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
+  </a> 
   <a href="https://github.com/Guscraftin" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
