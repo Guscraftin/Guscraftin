@@ -11,6 +11,8 @@
   
 </div>
 
+
+
 ## 👤 About me
 
 
@@ -38,14 +40,8 @@ Here are some ideas to get you started:
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight" width="47%" align="left"/>
 <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" width="47%" align="left"/>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guscraftin)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guscraftin)](https://git.io/streak-stats)
 
 
 ##  Languages I use
