@@ -3,6 +3,13 @@
 // Follow Github
 // Total stars
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Guscraftin&&style=flat-square" align="center" />
+  <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
+  </a>
+  
+</div>
 
 ## 👤 About me
 
@@ -31,6 +38,15 @@ Here are some ideas to get you started:
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight" width="47%" align="left"/>
 <img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" width="47%" align="left"/>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ##  Languages I use
 
@@ -39,5 +55,20 @@ Here are some ideas to get you started:
 
 
 ##  My projects
+
+
+## Connect with me  
+
+<div align="center">
+  <a href="https://github.com/Guscraftin" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://gitlab.com/Guscraftin" target="_blank">
+    <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/Guscraftin" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+</div>  
 
 
