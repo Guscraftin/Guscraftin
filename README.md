@@ -2,9 +2,6 @@
   <img src="hello-animated.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-// Follow Github
-// Total stars
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Guscraftin&&style=flat-square" align="center" />
   <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
