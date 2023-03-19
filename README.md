@@ -51,19 +51,18 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Guscraftin&show_icons=true" />
 </picture>
 
-<img alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&hide_border=true&theme=tokyonight&layout=compact" width="47%" align="left"/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&theme=dark&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10"/>
+</picture>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Guscraftin)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guscraftin)](https://git.io/streak-stats)
 
 
