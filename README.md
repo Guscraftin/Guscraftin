@@ -60,7 +60,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10" width="355px"/>
 </picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guscraftin)](https://git.io/streak-stats)
