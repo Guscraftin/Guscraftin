@@ -4,8 +4,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/Guscraftin?logo=GitHub&style=for-the-badge" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Guscraftin&&style=for-the-badge" align="center" />
   <img src="https://img.shields.io/github/stars/Guscraftin?logo=github&style=for-the-badge" align="center" />
-  <img src="https://komarev.com/ghpvc/?username=Guscraftin&&style=flat-square" align="center" />
+  
   <!-- <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
   </a> -->
@@ -20,9 +21,6 @@
 
 ## 👨🏻‍💻 About me
 
-<a href="https://app.daily.dev/Guscraftin"><img src="https://github.com/Guscraftin/Guscraftin/blob/main/devcard.svg" width="250" alt="Guscraftin's Dev Card" align="right"/></a>
-
-
     - 🔭 I’m currently working on ...  
     - 🌱 I’m currently learning ...  
     - 👯 I’m looking to collaborate on ...  
@@ -32,10 +30,10 @@
     - 😄 Pronouns: ...  
     - ⚡ Fun fact: ...  
 
-<br>
-<br>
-<br>
+<a href="https://app.daily.dev/Guscraftin"><img src="https://github.com/Guscraftin/Guscraftin/blob/main/devcard.svg" width="250" alt="Guscraftin's Dev Card" align="right"/></a>
 
+<br>
+<br>
 
 ## 🔥 My stats
 
