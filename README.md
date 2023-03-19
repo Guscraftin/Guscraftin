@@ -21,6 +21,13 @@
 
 ## 👨🏻‍💻 About me
 
+I am a second year student in a computer science school. I am passionate about computers and I spend my free time programming and reading articles about the tech world.
+
+    - 😄 Pronouns: He/Him
+    - 👯 I'm looking for opportunities so if you have one, contact me
+    - 📫 How to reach me: On Discord
+
+  <!--
     - 🔭 I’m currently working on ...  
     - 🌱 I’m currently learning ...  
     - 👯 I’m looking to collaborate on ...  
@@ -29,6 +36,7 @@
     - 📫 How to reach me: ...  
     - 😄 Pronouns: ...  
     - ⚡ Fun fact: ...  
+    -->
 
 <a href="https://app.daily.dev/Guscraftin"><img src="https://github.com/Guscraftin/Guscraftin/blob/main/devcard.svg" width="250" alt="Guscraftin's Dev Card" align="right"/></a>
 
@@ -58,7 +66,7 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10" width="355px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guscraftin&show_icons=true&layout=compact&langs_count=10" width="354px"/>
 </picture>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guscraftin)
