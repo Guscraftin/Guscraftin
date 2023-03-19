@@ -3,16 +3,18 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/Guscraftin?logo=GitHub&style=for-the-badge" align="center" />
+  <img src="https://img.shields.io/github/stars/Guscraftin?logo=github&style=for-the-badge" align="center" />
   <img src="https://komarev.com/ghpvc/?username=Guscraftin&&style=flat-square" align="center" />
-  <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
+  <!-- <a href="https://paypal.me/guscraftin" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/>
-  </a>
+  </a> -->
 </div>
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Guscraftin?logo=GitHub&style=for-the-badge)](https://github.com/Guscraftin)
+<!-- [![GitHub followers](https://img.shields.io/github/followers/Guscraftin?logo=GitHub&style=for-the-badge)](https://github.com/Guscraftin)
 [![GitHub Stars](https://img.shields.io/github/stars/Guscraftin?logo=github&style=for-the-badge)](https://github.com/Guscraftin)
-<!-- [![GitHub Sponsors](https://img.shields.io/github/sponsors/Guscraftin?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Guscraftin) -->
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Guscraftin?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Guscraftin) -->
 
 
 
@@ -54,13 +56,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guscraftin)](https://git.io/streak-stats)
 
 
-##  Languages I use
+<!-- ##  Languages I use
 
 
 ## Technologies and tools I use
 
 
-##  My projects
+##  My projects -->
 
 
 ## Connect with me  
