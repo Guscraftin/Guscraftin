@@ -21,7 +21,7 @@
 
 ## 👨🏻‍💻 About me
 
-I am a second year student in a computer science school. I am passionate about computers and I spend my free time programming and reading articles about the tech world.
+I am a third-year student in a computer science school. I am passionate about computers and I spend my free time programming and reading articles about the tech world.
 
     - 😄 Pronouns: He/Him
     - 👯 I'm looking for opportunities so if you have one, contact me
