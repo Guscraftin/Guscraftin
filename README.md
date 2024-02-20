@@ -38,10 +38,7 @@ I am a third-year student in a computer science school. I am passionate about co
     - ⚡ Fun fact: ...  
     -->
 
-<a href="https://app.daily.dev/guscraftin"><img src="https://api.daily.dev/devcards/v2/33xUMaCfuq5ZzPfmaWF9h.png?r=6uh&type=default" width="250" alt="Guscraftin's Dev Card" align="right"/></a>
-
-<br>
-<br>
+<a href="https://app.daily.dev/guscraftin"><img src="https://api.daily.dev/devcards/v2/33xUMaCfuq5ZzPfmaWF9h.png?r=6uh&type=default" width="300" alt="Guscraftin's Dev Card" align="right"/></a>
 
 ## 🔥 My stats
 
