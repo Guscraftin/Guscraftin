@@ -17,7 +17,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/Guscraftin?logo=github&style=for-the-badge)](https://github.com/Guscraftin)
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/Guscraftin?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/Guscraftin) -->
 
-
+<!-- TODO: Update this with that? : https://github.com/lowlighter/metrics -->
 
 ## 👨🏻‍💻 About me
 
